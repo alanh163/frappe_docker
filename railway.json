@@ -1,0 +1,5 @@
+{
+  "build": {
+    "dockerCompose": "compose/compose.yaml"
+  }
+}
